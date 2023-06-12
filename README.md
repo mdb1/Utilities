@@ -1,2 +1,3 @@
 # Utilities
-Different utilities and helpers for your iOS apps
+
+Different utilities and helpers for your iOS apps.

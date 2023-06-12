@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "FBE37D9B-6D44-4131-9125-DC390B9CD37E",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "UtilitiesTests",
+        "name" : "UtilitiesTests"
+      }
+    }
+  ],
+  "version" : 1
+}
